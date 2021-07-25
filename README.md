@@ -1,2 +1,2 @@
 # hk_admin
-hk_adnin frontend
+hk_admin frontend
